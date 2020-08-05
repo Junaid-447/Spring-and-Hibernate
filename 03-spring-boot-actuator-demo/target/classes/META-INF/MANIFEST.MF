@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mycoolapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Junaid
+Implementation-Vendor-Id: com.luv2code.springboot.demoapplication
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/03-apring-boot-actuator
+Created-By: Maven Integration for Eclipse
+
